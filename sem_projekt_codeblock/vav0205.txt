@@ -1,0 +1,16 @@
+Jméno: Vojtìch Vávra
+Login: vav0205
+Skupina: C/09 streda 16:00 - 17:30
+Zadání: 1. Domácí úèetnictví
+Text zadání:
+
+Data o pøíjmech a vıdajích financí v domácnosti jsou zapsána v CSV souboru. Ten obsahuje:
+	unikátní ID záznamu,
+	typ záznamu (pøíjem, vıdaj),
+	kategorii záznamu (jídlo, domácnost, zábava, …),
+	èástka v Kè,
+	datum záznamu.
+
+Na základì obsahu CSV souboru a vstupu uivatele vytvoøte soubor HTML, kterı shrne pøíjmy a vıdaje v jednotlivıch mìsících:
+	kadém mìsíci bude tabulka všech záznamù daného mìsíce seøazená sestupnì dle èástky;
+	souèet èástek seskupenıch dle kategorií; * celkovı stav financí (pøíjmy - vıdaje).

@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1544619872 source:c:\users\vooja\documents\c++\sem_projekt_codeblock\solution\main.cpp
+	<iostream>
+	<fstream>
+	<sstream>
+	<string>
+	<vector>
+	<algorithm>
+	<cmath>
+	<time.h>
+	<iomanip>
+	<stdexcept>
+	<list>
+
