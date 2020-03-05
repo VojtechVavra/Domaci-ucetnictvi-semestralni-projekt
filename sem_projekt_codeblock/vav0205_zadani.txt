@@ -1,0 +1,16 @@
+Jméno: Vojtěch Vávra
+Login: vav0205
+Skupina: C/09 streda 16:00 - 17:30
+Zadání: 1. Domácí účetnictví
+Text zadání:
+
+Data o příjmech a výdajích financí v domácnosti jsou zapsána v CSV souboru. Ten obsahuje:
+	unikátní ID záznamu,
+	typ záznamu (příjem, výdaj),
+	kategorii záznamu (jídlo, domácnost, zábava, …),
+	částka v Kč,
+	datum záznamu.
+
+Na základě obsahu CSV souboru a vstupu uživatele vytvořte soubor HTML, který shrne příjmy a výdaje v jednotlivých měsících:
+	každém měsíci bude tabulka všech záznamů daného měsíce seřazená sestupně dle částky;
+	součet částek seskupených dle kategorií; * celkový stav financí (příjmy - výdaje).
