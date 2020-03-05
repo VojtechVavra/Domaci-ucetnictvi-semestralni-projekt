@@ -2,7 +2,8 @@
 Semestrální projekt - Domácí účetnictví v c++  
 10. 12. 2018 - 1. semestr na VŠB-TUO  
 
-Neobjektový program napsaný v c++  
+Neobjektový program napsaný v c++ v IDE Code::Blocks  
+Program je celý okomentovaný a připravený pro generaci programátorské dokumentace Doxygen  
 
 ![Img_1](/sem_projekt_codeblock/uzivatelskadokumentace/imgs/uzivatelskadokumentace-page-001.jpg)
 ![Img_2](/sem_projekt_codeblock/uzivatelskadokumentace/imgs/uzivatelskadokumentace-page-002.jpg)
